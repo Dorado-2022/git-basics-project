@@ -1,2 +1,2 @@
 # git-basics-project
-git alap
+git alap munkafolyamat
